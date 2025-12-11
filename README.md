@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # hms-project
 =======
 # Hospital Management System
@@ -838,4 +838,3 @@ If you find this project helpful, please consider giving it a star! ⭐
 [⬆ Back to top](#hospital-management-system)
 
 </div>
->>>>>>> 3755b16 (Guvi)
